@@ -1,6 +1,6 @@
 # Cart-Pole Stabilisation in NVIDIA Isaac Sim
 
-![Cart-Pole System](images/Cart_pole_system_2.png)
+![Cart-Pole System](images/Cart_pole_system.png)
 
 A comparative study of classical and learned control strategies for cart-pole stabilisation, implemented and benchmarked in **NVIDIA Isaac Sim** with **Isaac Lab**.
 
@@ -8,6 +8,7 @@ Three controllers are implemented: **PID** (three architectures), **LQR**, and *
 
 > 🚧 **Work in progress** — curriculum training and robustness evaluation are ongoing. Results and extensions will be added as they are completed.
 
+![Cart-Pole System](images/cart_Pole_abstact.png)
 ---
 
 ## Hardware & Setup
