@@ -56,7 +56,7 @@ This project is part of a broader self-directed programme in robotics and contro
 
 ## Report
 
-A technical report covering the methodology and completed results is available in [`report/`](report/).
+A technical report covering the methodology and completed results is available in [`Report`](cartpole_report_current.pdf).
 
 ---
 
