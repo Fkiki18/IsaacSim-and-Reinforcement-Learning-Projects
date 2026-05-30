@@ -4,7 +4,7 @@
 
 A comparative study of classical and learned control strategies for cart-pole stabilisation, implemented and benchmarked in **NVIDIA Isaac Sim** with **Isaac Lab**.
 
-# Project demo Video availble in [`Video`](Video/Working_demo.mkv) or on ['Youtube'](https://youtu.be/hAa3eeW9kiE?si=1yooxw9HBWlTF5fw)
+# Project demo Video availble in [`Video`](Video/Working_demo.mkv) or on [Youtube](https://youtu.be/hAa3eeW9kiE?si=1yooxw9HBWlTF5fw)
 
 
 Three controllers are implemented: **PID** (three architectures), **LQR**, and **PPO** (via curriculum learning). The project covers the full pipeline — asset construction in USD, physics parameterisation, controller design, and a structured evaluation framework.
